@@ -1,0 +1,14 @@
+{
+  "name": "jsoninsight",
+  "version": "1.0.0",
+  "description": "Whether you're a developer or data enthusiast, JSONInsight simplifies your workflow by providing intuitive visualization tools and seamless operations on JSON objects, right in your browser. Easily inspect, manipulate, and extract insights from JSON data without leaving your web page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Pushkar, Hisham Hashmi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
